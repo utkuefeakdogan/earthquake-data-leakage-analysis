@@ -19,7 +19,6 @@ The original study used `random_state=15` to split earthquake data, allowing fut
 | LightGBM | 93.4% | 21.4% |
 | MLP | 92.6% | 20.0% |
 | Decision Tree | 89.7% | 20.8% |
-| *Majority class baseline* | — | *27.7%* |
 
 All 16 models were fully reproduced with identical hyperparameters. Every single one degrades below chance-level when evaluated correctly.
 
