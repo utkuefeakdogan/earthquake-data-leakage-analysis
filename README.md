@@ -49,11 +49,14 @@ The dataset (`LosAngeles_Earthquake_Dataset.csv`) is included in the repository.
 ---
 
 ## 📁 Repository Structure
+
+```
 earthquake_pred/
-├── table-script.ipynb               # Full reproduction & corrected analysis
+├── table-script.ipynb                 # Full reproduction & corrected analysis
 ├── LosAngeles_Earthquake_Dataset.csv  # SCEDC earthquake data (LA region)
-├── manuscript.pdf                   # Response paper
+├── manuscript.pdf                     # Response paper
 └── LICENSE
+```
 
 ---
 
